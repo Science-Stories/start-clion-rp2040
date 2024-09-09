@@ -20,11 +20,12 @@ servește drept configurare.
 **fisierul svd.** 
 Poți utiliza acest fișier pentru a vedea valoarea curentă a registrelor:
 
-![img.png](img.png)
+![img.png](img/img.png)
 
 Pentru a obține consola serială, trebuie mai întâi să instalezi pluginul „Serial Monitor” 
 și apoi să creezi o nouă conexiune:
 
-![img_1.png](img_1.png)
 
-![img_2.png](img_2.png)
+![img_1.png](img/img_1.png)
+
+![img_2.png](img/img_2.png)
