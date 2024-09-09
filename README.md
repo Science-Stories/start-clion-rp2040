@@ -1,7 +1,7 @@
 
 ## Proiect de start in CLION cu RP2040
 
-Pentru alte configurari, sisteme de operare, ide... 
+Pentru alte configurări, sisteme de operare, ide... acest pdf:
 
 https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
 
